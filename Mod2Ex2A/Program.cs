@@ -20,6 +20,13 @@ namespace Mod2Ex2A
                    do while i =< 10 i++
                    sum = sum + NextNum
                    Console.writeline{enter num(${i})}
+
+            int i = 0; while i < 9
+                for i = 0
+                get input 
+                    sum = sum + input
+                    i++
+
                    
             Console.writeline(${sum})
          }
